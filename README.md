@@ -9,6 +9,7 @@ This project was developed during Telacad Academy's Unity Class Session 4 and fe
 - SPACE key to float in air
 
 ## Screenshots:
-TODO
+- TODO
 
 ## Asset Store Props Packages used:
+- TODO

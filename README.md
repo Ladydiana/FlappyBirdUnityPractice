@@ -12,4 +12,4 @@ This project was developed during Telacad Academy's Unity Class Session 4 and fe
 - ![alt text](https://github.com/Ladydiana/FlappyBirdUnityPractice/blob/master/Screenshots/Screenshot1.PNG)
 
 ## Asset Store Props Packages used:
-- ![Gloomy Animal] (https://assetstore.unity.com/packages/3d/characters/animals/free-low-polygon-animal-110679) 
+- [Gloomy Animal] (https://assetstore.unity.com/packages/3d/characters/animals/free-low-polygon-animal-110679) 
